@@ -10,4 +10,5 @@
 ## 2. Names
 
 * [1. Names, Assignment, and User-Defined Functions](2.-names/untitled.md)
+* [2. Environment Diagram](2.-environment-diagram.md)
 
