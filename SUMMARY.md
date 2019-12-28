@@ -9,5 +9,5 @@
 
 ## 2. Names
 
-* [Untitled](2.-names/untitled.md)
+* [1. Names, Assignment, and User-Defined Functions](2.-names/untitled.md)
 
