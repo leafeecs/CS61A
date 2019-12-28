@@ -16,7 +16,7 @@
 
 ### Anatomy of a Call Expression
 
-![](../.gitbook/assets/2019-12-27-6.47.37.png)
+![](../.gitbook/assets/2019-12-27-6.47.37%20%281%29.png)
 
 * Operators and operands are also expressions
 * So they evaluate to values
